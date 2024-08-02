@@ -16,7 +16,7 @@ Welcome, to the TRILha Mentorship Program! We are thrilled to have you here as p
    cd TRILha-Hub-2024
    ```
 
-### Step 2: Setting Up Your Environment
+### Step 2(Optional): Setting Up Your Environment
 
 To make sure your environment is set up correctly, follow these steps:
 
@@ -31,7 +31,7 @@ To make sure your environment is set up correctly, follow these steps:
    git push origin main
    ```
 
-### Step 2: Homework Submission
+### Step 3: Homework Submission
 
 Once you’ve completed any homework assignment, follow these steps to submit your assignment to GitHub:
 
